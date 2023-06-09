@@ -210,7 +210,7 @@
         <dependency>
             <groupId>org.apache.guacamole</groupId>
             <artifactId>guacamole-common</artifactId>
-            <version>1.0.0</version>
+            <version>1.5.2</version>
             <scope>provided</scope>
         </dependency>
 
@@ -218,7 +218,7 @@
         <dependency>
             <groupId>org.apache.guacamole</groupId>
             <artifactId>guacamole-ext</artifactId>
-            <version>1.0.0</version>
+            <version>1.5.2</version>
             <scope>provided</scope>
         </dependency>
 
