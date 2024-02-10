@@ -336,7 +336,7 @@
         <dependency>
             <groupId>org.webjars.bower</groupId>
             <artifactId>angular-touch</artifactId>
-            <version>1.6.9</version>
+            <version>1.8.2</version>
             <scope>runtime</scope>
         </dependency>
 
@@ -358,7 +358,7 @@
         <dependency>
             <groupId>org.webjars.bower</groupId>
             <artifactId>angular-translate</artifactId>
-            <version>2.16.0</version>
+            <version>2.18.3</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
